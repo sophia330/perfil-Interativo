@@ -1,0 +1,45 @@
+body {
+ font-family: Arial, sans-serif;
+ background-color: #f2f2f2;
+}
+
+main {
+ display: flex;
+ justify-content: center;
+ padding: 40px;
+}
+
+.perfil {
+ width: 320px;
+ padding: 25px;
+ background-color: white;
+ border-radius: 12px;
+ text-align: center;
+}
+
+input {
+ width: 90%;
+ padding: 10px;
+ margin: 10px 0;
+}
+
+button {
+ padding: 10px;
+ margin: 5px;
+}
+
+.atualizado {
+ background-color: green;
+ color: white;
+}
+
+.tema-escuro {
+ background-color: #111;
+ color: white;
+}
+/*desafio*/
+
+.campo-ativo {
+ border: 2px solid blue;
+}
+
